@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\fiona\\code\\TodoList\\TodoList\\TodoList.csproj": {}
+    "C:\\Users\\fiona\\code\\TodoList\\TodoList\\TodoList.csproj": {}
   },
   "projects": {
-    "c:\\Users\\fiona\\code\\TodoList\\TodoList\\TodoList.csproj": {
+    "C:\\Users\\fiona\\code\\TodoList\\TodoList\\TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\fiona\\code\\TodoList\\TodoList\\TodoList.csproj",
+        "projectUniqueName": "C:\\Users\\fiona\\code\\TodoList\\TodoList\\TodoList.csproj",
         "projectName": "TodoList",
-        "projectPath": "c:\\Users\\fiona\\code\\TodoList\\TodoList\\TodoList.csproj",
+        "projectPath": "C:\\Users\\fiona\\code\\TodoList\\TodoList\\TodoList.csproj",
         "packagesPath": "C:\\Users\\fiona\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\fiona\\code\\TodoList\\TodoList\\obj\\",
+        "outputPath": "C:\\Users\\fiona\\code\\TodoList\\TodoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fiona\\AppData\\Roaming\\NuGet\\NuGet.Config"

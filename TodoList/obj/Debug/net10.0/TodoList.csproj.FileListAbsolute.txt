@@ -83,3 +83,4 @@ c:\Users\fiona\code\TodoList\TodoList\obj\Debug\net10.0\refint\TodoList.dll
 c:\Users\fiona\code\TodoList\TodoList\obj\Debug\net10.0\TodoList.pdb
 c:\Users\fiona\code\TodoList\TodoList\obj\Debug\net10.0\TodoList.genruntimeconfig.cache
 c:\Users\fiona\code\TodoList\TodoList\obj\Debug\net10.0\ref\TodoList.dll
+c:\Users\fiona\code\TodoList\TodoList\obj\Debug\net10.0\TodoList.sourcelink.json
